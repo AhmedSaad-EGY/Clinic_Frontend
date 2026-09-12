@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #476a8a;
+  --color-primary-soft: #9fc2e1;
+  --color-accent: #f2adb8;
+  --color-surface: #fffaf6;
+  --color-text: #1f2937;
+  --font-sans: Tahoma, Arial, sans-serif;
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}

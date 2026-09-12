@@ -1,0 +1,24 @@
+@import './tokens.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-width: 320px;
+  min-height: 100dvh;
+}
+
+body {
+  margin: 0;
+  background: var(--color-surface);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
